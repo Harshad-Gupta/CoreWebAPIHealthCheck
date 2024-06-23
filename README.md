@@ -10,7 +10,8 @@ To create health endpoint in my ASP.NET Core WebAPI project that provide details
   <li>Create a new Health Controller endpoint to retrieve the data.</li>
 </ol>
 <h3>Example Reponse</h3>
-<pre> 
+
+```js
 {
   "Employee/AddNewEmployee": {
     "200": 1
@@ -29,4 +30,5 @@ To create health endpoint in my ASP.NET Core WebAPI project that provide details
     "200": 1
   }
 }
-</pre>
+```
+
